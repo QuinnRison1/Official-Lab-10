@@ -36,6 +36,8 @@ Model – Microsoft copilot
 Prompt – “Fix the error regarding this error message: “
 Website url: Streamlit or https://offiial-lab-10.streamlit.app
 For whatever reason it has removed information from the app to prevent data leaks. 
+-Discussion
+What is to be learned from this lab is that there are efficient methods to prompt AI to get it to do tasks very fast. Although the app made in this lab isn’t currently working, I was satisfied with what it was able to do when it was. Although it was a three-hour lab and it felt as though not much had gotten done, all things considered, the app was pretty cool. Being able to tell AI to execute a task and it can do it in a few seconds is amazing. It will be wild to think about the capabilities this tool will have in the future. 
 -References
 Copilot. (2025). Explanation of the Pandas Library and Streamlit Framework. Retrieved from Microsoft Copilot.
 Copilot. (2025). Methods for Lab Exercise on Python and AI. Retrieved from Microsoft Copilot.
